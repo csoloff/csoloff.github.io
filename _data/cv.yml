@@ -1,97 +1,126 @@
-- title: General Information
+- title: Contact
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Cassidy Soloff
+    - name: Email
+      value: csoloff@arizona.edu
+
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+    - title: Ph.D. Atmospheric Science
+      institution: University of Arizona
+      year: 2024 - 2026
+      maindescription: "Minor: Remote Sensing"
+      
+    - title: M.S. Atmospheric Science
+      institution: University of Arizona
+      year: 2022 - 2024
+
+    - title: B.A. Physics & Astronomy
+      institution: Wesleyan University
+      maindescription: "Minor: Environmental Studies"
+      year: 2018 - 2022
+
+
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Graduate Research Assistant
+      institution: University of Arizona
+      year: 2022.05 - 2026.05
+      maindescription: "Adivsor: Dr. Armin Sorooshian"
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - title: NASA’s Aerosol Cloud meTeorology Interactions oVer the western ATlantic Experiment (ACTIVATE)
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+            - Researched the spatial evolution of aerosol and gas properties of the U.S. east coast using flights transiting from Virginia to Bermuda (<a href="https://doi.org/10.5194/acp-24-10385-2024">publication</a>)
+            - Predicted Cloud Condensation Nuclei (CCN) concentration from aerosol chemistry using Köhler theory and machine learning techniques and compared with direct CCN measurements to assess understanding of aerosol microphysics and instrumentation
+        - title: NASA’s Arctic Radiation-Cloud-Aerosol-Surface-Interaction Experiment (ARCSIX)
+          contents:
+            - Conducted lab study using Differential Aerosol Sizing and Hygroscopicity Spectrometer Probe (DASH-SP) to measure deliquescence and refractive index of different particle species
+            - Collected data with DASH-SP instrument during ARCSIX mission in Northern Greenland during summer 2024, flying 28 combined hours on the NASA P-3 Orion aircraft
+            - Diagnosed and resolved issues with of DASH-SP in the field
+            - Developed scripts to process raw data from DASH-SP
+    - title: Student Airborne Research Program Intern
+      institution: National Aeronautics and Space Administration (NASA)
+      year: 2021.05 - 2021.08
+      maindescription: "Adivsors: Dr. Roya Bahreini, Andreas Beyersdorf; Mentor: Eva-Lou Edwards"
       description:
-        - Description 1.
-        - Description 2.
+        - Researched the local radiative forcing from the 2018 Kīlauea flank eruption
+        - Flew 10 combined hours on NASA DC-8 research aircraft to monitor the aerosol instruments
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Undergraduate Research Assistant
+      institution: Wesleyan University
+      year: 2020.01 - 2022.05
+      maindescription: "Adivsor: Dr. Seth Redfield"
       description:
+        - Modeled exoplanet atmosphere spectra and developed an exoplanet transit survey for hot, bright stars
+        - Worked as an Undergraduate Research Fellow in the Summer of 2020, assisting Dr. Seth Redfield as a co-investigator for his James Webb Space Telescope proposal to make spectral observations
+        - Conducted the first exoplanet transit observations with the Van Vleck Observatory’s 24-inch PlaneWave telescope to derive the photometric sensitivity and precision of the new equipment
+        - Analyzed exoplanet transit curves to derive stellar and planetary properties
+    
+    - title: Telescope Operator
+      institution: Wesleyan University
+      year: 2019.02 - 2020.01
+      description:
+        - Operated the 24-inch Perkin telescope and software to produce science images of stars and galaxies in specified wavelength bands, providing data for Wesleyan researchers
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Teaching Experience
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Astronomy Public Outreach
+      institution: Wesleyan University
+      year: 2019.02 - 2022.05
+      description:
+        - Lead presentations for the department’s Space Nights and assist in kids public outreach events
+    - title: "Course Assistant: Introduction to Astronomy"
+      institution: Wesleyan University
+      year: 2021.09 - 2021.12
+      description:
+        - Assisted students in office hours and graded homework/exams
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
+- title: Presentations
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - "<b>(Oral)</b> <u>Soloff, C.</u>, et al. \"Bridging Gas and Aerosol Properties between Northeast U.S. and Bermuda: Analysis of Eight Transit Flights.\" El Dia del Agua y la Atmosfera, Tucson, AZ, March 2024."
+    - "<b>(Poster)</b> <u>Soloff, C.</u>, et al. \"Characterization of Trace Gases and Particles Across the Northwest Atlantic: Analysis of Transit Flights during the NASA ACTIVATE Mission.\" American Geophysical Union, Fall Meeting, San Francisco, CA, December 2023."
+    - "<b>(Poster)</b> <u>Soloff, C.</u>, et al. \"Characterization of Trace Gases and Particles Across the Northwest Atlantic: Analysis of Transit Flights during the NASA ACTIVATE Mission.\" El Dia del Agua y la Atmosfera, Tucson, AZ, March 2023."
+    - "<b>(Poster)</b> <u>Soloff, C.</u>, et al. \"Radiative Forcing Analysis of the 2018 Kīlauea Flank Eruption.\" American Geophysical Union, Fall Meeting, Chicago, IL, December 2022."
+    - "<b>(Poster)</b> <u>Soloff, C.</u>, and Seth Redfield. \"Unseen Worlds: A Search for Exoplanet Transits of Bright Early-Type Stars.\" American Astronomical Society, Pasadena, CA, June 2022."
+    - <b>(Panel Discussion)</b> Redfield, S., Bennett, K., <u>Soloff, C.</u>, McGregor, K., STEAMfest, Bridgeport, CT, Nov 2021
+
+
+- title: Honors, Awards, and Fellowships
+  type: time_table
+  contents:
+    - year: 2024
+      items:
+        - Sol Resnick Scholarship
+        - Roots for Resilience Fellowship
+        - Galileo Circle Student Scholarship
+    - year: 2023
+      items:
+        - NASA Group Achievement Award
+        - El Día del Agua y La Atmosfera Best Poster
+        - Graduate College Fellowship
+    - year: 2022
+      items:
+        - Littell Prize
+    - year: 2021
+      items:
+        - NASA Undergraduate Research Grant
+    - year: 2020
+      items:
+      - Wesleyan Undergraduate Research Fellowship
+
+
+- title: Qualifications & Skills
+  type: list
+  contents:
+    - "<b>Skills:</b> Proficient in Python, ArcGIS Pro, GitHub; Basic in R, C"
+    - "<b>Instrumentation:</b> DASH-SP"
+    - "<b>Strengths:</b> Data analysis, machine learning, leadership, communication, teamwork, organization"
+
