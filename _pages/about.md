@@ -2,24 +2,18 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Ph.D. Student in <a href='https://has.arizona.edu'>Atmospheric Science</a> at the <a href='https://www.arizona.edu'>University of Arizona</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Tucson, AZ</p>
 
-news: true # includes a list of news items
+news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Cassidy grew up in New York City and went on to attend Wesleyan University where he got a bachelor’s in physics and astronomy in 2022. Following an internship in NASA’s Student Airborne Research Program (SARP), Cassidy decided to pursue atmospheric science research at the University of Arizona earning a master’s in 2024. Under his advisor Dr. Armin Sorooshian, Cassidy studies aerosols and trace gases. In the summer of 2024, Cassidy researched at Pituffik Space Base, Greenland as part of NASA’s Arctic Radiation Cloud Aerosol Surface Interaction Experiment ([ARCSIX](https://espo.nasa.gov/arcsix/content/ARCSIX)) mission. He was on the team running the Differential Aerosol Sizing and Hygroscopicity Spectrometer Probe (DASH-SP) on the P-3 Orion aircraft. DASH-SP measures the optical and growth properties of aerosol particles.
