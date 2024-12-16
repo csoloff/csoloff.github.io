@@ -80,11 +80,42 @@
       institution: Wesleyan University
       year: 2021.09 - 2021.12
       description:
-        - Assisted students in office hours and graded homework/exams
+        - Assisted students during office hours and graded homework/exams
+
+- title: Volunteering
+  type: time_table
+  contents:
+    - title: Treasurer
+      institution: University of Arizona
+      year: 2023.08 - 2024.05
+      description:
+        - Managed finances for outreach and social events for of Hydrology and Atmospheric Science Student Association
+    - title: President of Astronomy Club
+      institution: Wesleyan University
+      year: 2021.09 - 2022.05
+      description:
+        - Organized club activities and presented weekly on current topics in Astronomy
+
+
+- title: Professional Development
+  type: time_table
+  contents:
+    - title: Carbon Methods Workshop
+      institution: The Nature Conservancy in Arizona
+      year: 2023.04
+      description:
+        - Performed measurements of tree and soil carbon along the lower San Pedro River
+
+- title: Articles
+  type: list
+  contents:
+    - <u>Soloff, C.</u>, Ouanemalay, E. (2022, January 5). Learning from Cognitive Deficiencies to Prevent the Next Pandemic. Medium. https://medium.com/resilience/learning-from-cognitive-deficiencies-to-prevent-the-next-pandemic-7f11cf9b6c8b
+    
 
 - title: Presentations
   type: list
   contents:
+    - "<b>(Oral)</b> <u>Soloff, C.</u>, et al. \"CCN Closure for the ACTIVATE campaign.\" American Geophysical Union, Fall Meeting, Washington D.C., December 2024."
     - "<b>(Oral)</b> <u>Soloff, C.</u>, et al. \"Bridging Gas and Aerosol Properties between Northeast U.S. and Bermuda: Analysis of Eight Transit Flights.\" El Dia del Agua y la Atmosfera, Tucson, AZ, March 2024."
     - "<b>(Poster)</b> <u>Soloff, C.</u>, et al. \"Characterization of Trace Gases and Particles Across the Northwest Atlantic: Analysis of Transit Flights during the NASA ACTIVATE Mission.\" American Geophysical Union, Fall Meeting, San Francisco, CA, December 2023."
     - "<b>(Poster)</b> <u>Soloff, C.</u>, et al. \"Characterization of Trace Gases and Particles Across the Northwest Atlantic: Analysis of Transit Flights during the NASA ACTIVATE Mission.\" El Dia del Agua y la Atmosfera, Tucson, AZ, March 2023."
@@ -121,6 +152,6 @@
   type: list
   contents:
     - "<b>Skills:</b> Proficient in Python, ArcGIS Pro, GitHub; Basic in R, C"
-    - "<b>Instrumentation:</b> DASH-SP"
+    - "<b>Instrumentation:</b> DASH-SP, PlaneWave 24-inch telescope"
     - "<b>Strengths:</b> Data analysis, machine learning, leadership, communication, teamwork, organization"
 
