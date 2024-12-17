@@ -7,4 +7,6 @@ dropdown: true
 children:
   - title: blog
     permalink: /blog/
+  - title: music
+    permalink: /music/
 ---
