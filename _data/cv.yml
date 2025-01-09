@@ -42,7 +42,7 @@
           contents:
             - Conducted lab study using Differential Aerosol Sizing and Hygroscopicity Spectrometer Probe (DASH-SP) to measure deliquescence and refractive index of different particle species
             - Collected data with DASH-SP instrument during ARCSIX mission in Northern Greenland during summer 2024, flying 28 combined hours on the NASA P-3 Orion aircraft
-            - Diagnosed and resolved issues with of DASH-SP in the field
+            - Diagnosed and resolved DASH-SP issues in the field
             - Developed scripts to process raw data from DASH-SP
     - title: Student Airborne Research Program Intern
       institution: National Aeronautics and Space Administration (NASA)
