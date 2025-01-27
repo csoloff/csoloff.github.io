@@ -37,7 +37,7 @@
         - title: NASA’s Aerosol Cloud meTeorology Interactions oVer the western ATlantic Experiment (ACTIVATE)
           contents:
             - Researched the spatial evolution of aerosol and gas properties of the U.S. east coast using flights transiting from Virginia to Bermuda (<a href="https://doi.org/10.5194/acp-24-10385-2024">publication</a>)
-            - Predicted Cloud Condensation Nuclei (CCN) concentration from aerosol chemistry using Köhler theory and machine learning techniques and compared with direct CCN measurements to assess understanding of aerosol microphysics and instrumentation
+            - Predicting Cloud Condensation Nuclei (CCN) concentration from aerosol chemistry using Köhler theory and machine learning techniques and compared with direct CCN measurements to assess understanding of aerosol microphysics and instrumentation
         - title: NASA’s Arctic Radiation-Cloud-Aerosol-Surface-Interaction Experiment (ARCSIX)
           contents:
             - Conducted lab study using Differential Aerosol Sizing and Hygroscopicity Spectrometer Probe (DASH-SP) to measure deliquescence and refractive index of different particle species
@@ -75,7 +75,7 @@
       institution: Wesleyan University
       year: 2019.02 - 2022.05
       description:
-        - Lead presentations for the department’s Space Nights and assist in kids public outreach events
+        - Led presentations for the department’s Space Nights and assisted in public outreach events for kids
     - title: "Course Assistant: Introduction to Astronomy"
       institution: Wesleyan University
       year: 2021.09 - 2021.12
