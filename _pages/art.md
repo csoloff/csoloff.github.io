@@ -35,7 +35,7 @@ toc:
 <br>
 
 **Editor**<br>
-Gia Woods – [Here's Your Song](https://youtu.be/-_Q05RXZFoo?si=X5wHl5UCm7KBaelq)
+Chloe Lilac – [Here's Your Song](https://youtu.be/-_Q05RXZFoo?si=X5wHl5UCm7KBaelq)
 
 # 2019
 **Editor**<br>
