@@ -6,9 +6,9 @@ nav: false
 toc:
   sidebar: left
 ---
-<p>Drummer – <span id="drum-years"></span></p>
-<p>Film maker – <span id="film-years"></span></p>
-
+<p style="font-size: 20px;">Drummer – <span id="drum-years"></span></p>
+<p style="font-size: 20px;">Film maker – <span id="film-years"></span></p>
+---
 <script>
   function calculateYears(startDateStr) {
     const start = new Date(startDateStr);
