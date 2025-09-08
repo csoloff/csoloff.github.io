@@ -150,6 +150,14 @@
       items:
       - Wesleyan Undergraduate Research Fellowship
 
+- title: Reviewer Roles
+  type: time_table
+  contents:
+    - year: 2025
+      items:
+        - Atmospheric Environment
+        - Atmospheric Chemistry and Physics
+
 
 - title: Qualifications & Skills
   type: list
