@@ -6,7 +6,7 @@ nav: false
 toc:
   sidebar: left
 ---
-<p style="font-size: 20px;">Drummer – <span id="drum-years"></span></p>
+<!-- <p style="font-size: 20px;">Drummer – <span id="drum-years"></span></p>
 <p style="font-size: 20px;">Film maker – <span id="film-years"></span></p>
 ---
 <script>
@@ -22,7 +22,7 @@ toc:
 
   document.getElementById('drum-years').innerText = `${drumYears} ${drumYears === 1 ? 'year' : 'years'}`;
   document.getElementById('film-years').innerText = `${filmYears} ${filmYears === 1 ? 'year' : 'years'}`;
-</script>
+</script> -->
 
 # 2024
 **Drummer**<br>
