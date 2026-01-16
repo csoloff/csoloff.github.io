@@ -24,9 +24,16 @@ toc:
   document.getElementById('film-years').innerText = `${filmYears} ${filmYears === 1 ? 'year' : 'years'}`;
 </script> -->
 
-# 2024
+# 2026
 **Drummer**<br>
-*Paradise Wind*, [Stone Circle Theatre](https://stonecircletheatre.org), Director: [Jude Markey-Smith](https://www.judemarkeysmith.com)
+*Osvald Rivera*, [Clown Show Prison](https://clownshowprison.com), Feb 6
+
+# 2025
+**Drummer**<br>
+*Osvald Rivera*, [Clown Show Prison](https://clownshowprison.com), Dec 21
+
+**Drummer**<br>
+*Paradise Wind*, [Stone Circle Theatre](https://stonecircletheatre.org), Director: [Jude Markey-Smith](https://www.judemarkeysmith.com), Jan 4–5
 
 # 2020
 
