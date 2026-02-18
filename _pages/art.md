@@ -25,11 +25,11 @@ toc:
 </script> -->
 
 # 2026
-**Drummer**<br>
+**Percussionist**<br>
 *Osvald Rivera*, [Clown Show Prison](https://clownshowprison.com), Feb 6
 
 # 2025
-**Drummer**<br>
+**Percussionist**<br>
 *Osvald Rivera*, [Clown Show Prison](https://clownshowprison.com), Dec 21
 
 **Drummer**<br>
