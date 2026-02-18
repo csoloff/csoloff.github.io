@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. Student in <a href='https://has.arizona.edu'>Atmospheric Science</a> at the <a href='https://www.arizona.edu'>University of Arizona</a>
+subtitle: Ph.D. Candidate in <a href='https://has.arizona.edu'>Atmospheric Science</a> at the <a href='https://www.arizona.edu'>University of Arizona</a>
 
 profile:
   align: right
