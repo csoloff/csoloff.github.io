@@ -37,6 +37,9 @@ on:
       - "!.github/workflows/lighthouse-badger.yml"
       - "!.github/workflows/prettier.yml"
       - "!lighthouse_results/**"
+    paths-ignore:
+      - "CUSTOMIZE.md"
+      - "FAQ.md"
 
 jobs:
   link-checker:
