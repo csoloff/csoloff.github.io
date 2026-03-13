@@ -3,13 +3,11 @@ layout: about
 title: about
 permalink: /
 subtitle: Ph.D. Candidate in <a href='https://has.arizona.edu'>Atmospheric Science</a> at the <a href='https://www.arizona.edu'>University of Arizona</a>
-
 profile:
   align: right
   image: prof_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
-
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
