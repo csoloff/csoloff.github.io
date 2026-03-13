@@ -39,7 +39,6 @@ on:
       - "!lighthouse_results/**"
     paths-ignore:
       - "CUSTOMIZE.md"
-      - "FAQ.md"
 
 jobs:
   link-checker:
