@@ -34,17 +34,19 @@
         - title: NASA’s Aerosol Cloud meTeorology Interactions oVer the western ATlantic Experiment (ACTIVATE)
           contents:
             - Researched the spatial evolution of aerosol and gas properties of the U.S. east coast using flights transiting from Virginia to Bermuda (<a href="https://doi.org/10.5194/acp-24-10385-2024">publication</a>)
-            - Predicting Cloud Condensation Nuclei (CCN) concentration from aerosol chemistry using κ-Köhler theory and compared with direct CCN measurements to assess understanding of aerosol microphysics and instrumentation (<a href="https://doi.org/10.1021/acsestair.5c00151">publication</a>)
+            - Predicted Cloud Condensation Nuclei (CCN) concentration from aerosol chemistry using κ-Köhler theory and compared with direct CCN measurements to assess understanding of aerosol microphysics and instrumentation (<a href="https://doi.org/10.1021/acsestair.5c00151">publication</a>)
         - title: NASA’s Arctic Radiation-Cloud-Aerosol-Surface-Interaction Experiment (ARCSIX)
           contents:
-            - Conducted lab study using Differential Aerosol Sizing and Hygroscopicity Spectrometer Probe (DASH-SP) to measure deliquescence and refractive index of different particle species
-            - Collected data with DASH-SP instrument during ARCSIX mission in Northern Greenland during summer 2024, flying 28 combined hours on the NASA P-3 Orion aircraft
+            - Conducted lab study using Differential Aerosol Sizing and Hygroscopicity Spectrometer Probe (DASH-SP) to measure deliquescence, growth factor (GF) and effective real refractive index (<i>n</i><sub>eff</sub>) of different particle species
+            - Collected data with DASH-SP instrument during ARCSIX mission in Northern Greenland during spring 2024, flying 28 combined hours on the NASA P-3 Orion aircraft
             - Diagnosed and resolved DASH-SP issues in the field
             - Developed scripts to process raw data from DASH-SP
+            - Performed statistical characterization of neff for ARCSIX using linear mixed-effects models between seasons, chemical closure using multiple linear regression, and random forest regression with a broader set of predictors (<a href="https://doi.org/10.1016/j.atmosenv.2026.122475">publication</a>)
+            - Analyzed DASH-SP and chemical composition measurements of cloud residuals and compared them with above- and below-cloud aerosol to identify cloud processing effects on <i>n</i><sub>eff</sub> and hygroscopicity (manuscript in preparation)
     - title: Student Airborne Research Program Intern
       institution: National Aeronautics and Space Administration (NASA)
       year: 2021.05 – 2021.08
-      maindescription: "Advisors: Dr. Roya Bahreini, Andreas Beyersdorf; Mentor: Eva-Lou Edwards"
+      maindescription: "Advisors: Dr. Roya Bahreini, Dr. Andreas Beyersdorf; Mentor: Eva-Lou Edwards"
       description:
         - Researched the local radiative forcing from the 2018 Kīlauea flank eruption
         - Flew 10 combined hours on NASA DC-8 research aircraft to monitor the aerosol instruments
@@ -79,6 +81,15 @@
       description:
         - Assisted students during office hours and graded homework/exams
 
+- title: Reviewer Roles
+  type: time_table
+  contents:
+    - year: 2025
+      items:
+        - Journal of Geophysical Research — Atmosphere
+        - Atmospheric Environment
+        - Atmospheric Chemistry and Physics
+
 - title: Volunteering
   type: time_table
   contents:
@@ -106,14 +117,14 @@
   type: list
   contents:
     - '<b>(Oral)</b> <u>Soloff, C.</u>, et al. "Characterization of Dry Aerosol Real Refractive Index in the Arctic Surrounding Spring–Summer Sea Ice Melt." ARCSIX Science Team Meeting, Hampton, VA, Apr 2026.'
-    - '<b>(Poster)</b> <u>Soloff, C.</u>, et al. "Hygroscopic and optical properties of cloud droplet residual particles in the Arctic atmosphere: Vertically-resolved measurements from the ARCSIX mission." ARCSIX Science Team Meeting, Hampton, VA, Apr 2026.'
+    - '<b>(Poster)</b> <u>Soloff, C.</u>, et al. "Hygroscopic and optical properties of cloud droplet residual particles in the Arctic atmosphere: Vertically resolved measurements from the ARCSIX mission." ARCSIX Science Team Meeting, Hampton, VA, Apr 2026.'
     - '<b>(Poster)</b> <u>Soloff, C.</u>, et al. "Seasonal and Chemical Influences on Dry Refractive Index and Hygroscopic Growth Factor." ARCSIX Science Team Meeting, Boulder, CO, May 2025.'
-    - '<b>(Poster)</b> <u>Soloff, C.</u>, et al. "CCN Closure for the ACTIVATE campaign." El Dia del Agua y la Atmosfera, Tucson, AZ, March 2025.'
+    - '<b>(Poster)</b> <u>Soloff, C.</u>, et al. "CCN Closure for the ACTIVATE campaign." El Día del Agua y la Atmósfera, Tucson, AZ, March 2025.'
     - '<b>(Oral)</b> <u>Soloff, C.</u>, et al. "CCN Closure for the ACTIVATE campaign." American Geophysical Union, Fall Meeting, Washington D.C., December 2024.'
-    - '<b>(Oral)</b> <u>Soloff, C.</u>, et al. "Bridging Gas and Aerosol Properties between Northeast U.S. and Bermuda: Analysis of Eight Transit Flights." El Dia del Agua y la Atmosfera, Tucson, AZ, March 2024.'
+    - '<b>(Oral)</b> <u>Soloff, C.</u>, et al. "Bridging Gas and Aerosol Properties between Northeast U.S. and Bermuda: Analysis of Eight Transit Flights." El Día del Agua y la Atmósfera, Tucson, AZ, March 2024.'
     - '<b>(Poster)</b> <u>Soloff, C.</u>, et al. "Characterization of Trace Gases and Particles Across the Northwest Atlantic: Analysis of Transit Flights during the NASA ACTIVATE Mission." American Geophysical Union, Fall Meeting, San Francisco, CA, December 2023.'
     - '<b>(Oral)</b> <u>Soloff, C.</u>, et al. "Bridging Gas and Aerosol Properties between Northeast U.S. and Bermuda: Analysis of Eight Transit Flights." ACTIVATE Science Team Meeting, Tucson, AZ, November 2023.'
-    - '<b>(Poster)</b> <u>Soloff, C.</u>, et al. "Characterization of Trace Gases and Particles Across the Northwest Atlantic: Analysis of Transit Flights during the NASA ACTIVATE Mission." El Dia del Agua y la Atmosfera, Tucson, AZ, March 2023.'
+    - '<b>(Poster)</b> <u>Soloff, C.</u>, et al. "Characterization of Trace Gases and Particles Across the Northwest Atlantic: Analysis of Transit Flights during the NASA ACTIVATE Mission." El Día del Agua y la Atmósfera, Tucson, AZ, March 2023.'
     - '<b>(Poster)</b> <u>Soloff, C.</u>, et al. "Radiative Forcing Analysis of the 2018 Kīlauea Flank Eruption." American Geophysical Union, Fall Meeting, Chicago, IL, December 2022.'
     - '<b>(Poster)</b> <u>Soloff, C.</u>, and Seth Redfield. "Unseen Worlds: A Search for Exoplanet Transits of Bright Early-Type Stars." American Astronomical Society, Pasadena, CA, June 2022.'
     - "<b>(Panel Discussion)</b> Redfield, S., Bennett, K., <u>Soloff, C.</u>, McGregor, K., STEAMfest, Bridgeport, CT, Nov 2021"
@@ -135,7 +146,7 @@
     - year: 2023
       items:
         - NASA Group Achievement Award
-        - El Día del Agua y La Atmosfera Best Poster
+        - El Día del Agua y La Atmósfera Best Poster
         - Graduate College Fellowship
     - year: 2022
       items:
@@ -148,20 +159,10 @@
       items:
         - Wesleyan Undergraduate Research Fellowship
 
-- title: Reviewer Roles
-  type: time_table
-  contents:
-    - year: 2026
-      items:
-        - Journal of Geophysical Research — Atmosphere
-    - year: 2025
-      items:
-        - Atmospheric Environment
-        - Atmospheric Chemistry and Physics
-
 - title: Qualifications & Skills
   type: list
   contents:
-    - "<b>Skills:</b> Proficient in Python, ArcGIS Pro, GitHub; Basic in R, C"
+    - "<b>Coding and software:</b> Python (NumPy, pandas, SciPy, statsmodels, scikit-learn, Matplotlib, Cartopy), ArcGIS Pro, R, C"
     - "<b>Instrumentation:</b> DASH-SP, PlaneWave 24-inch telescope"
-    - "<b>Strengths:</b> Data analysis, machine learning, leadership, communication, teamwork, organization"
+    - "<b>Statistical & machine learning methods:</b> Monte Carlo uncertainty propagation, linear mixed effects models, multiple linear regression, random forest regression, recursive feature elimination, cross-validation"
+    - "<b>Field experience:</b> NASA ARCSIX (P-3 Orion, 2024), NASA Student Airborne Research Program (DC-8, 2021)"
